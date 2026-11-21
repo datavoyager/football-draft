@@ -1,12 +1,10 @@
 {
-  "name": "All-Time Football Draft Tracker",
-  "short_name": "Draft Tracker",
+  "name": "All-Time Football Draft",
+  "short_name": "Football Draft",
   "start_url": "./index.html",
-  "scope": "./",
   "display": "standalone",
-  "background_color": "#f1f5f9",
   "theme_color": "#102a43",
-  "description": "Offline fantasy football auction tracker for Luke, Jon, Tom, Mark and Jeff.",
+  "background_color": "#f1f5f9",
   "icons": [
     {
       "src": "icon-192.png",
